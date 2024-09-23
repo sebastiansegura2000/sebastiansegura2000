@@ -15,6 +15,10 @@ I'm a passionate Full Stack Web Developer with a strong focus on backend develop
 
 - 📫 How to reach me: **Sebastiansegura260@gmail.com or [LinkedIn](https://www.linkedin.com/in/sebastian-segura-829525313)**
 
+
+## 💻 Tech Preferences
+
+
 ## 📲 Contact me:
 
 <div align="center">
