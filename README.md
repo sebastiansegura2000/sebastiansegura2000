@@ -6,10 +6,6 @@ I'm a passionate Full Stack Web Developer with a strong focus on backend develop
 
 <br>
 
-I'm always eager to learn and tackle new challenges in the tech world!
-
-<br>
-
 - 🌱 I’m currently learning **about development specifically about PHP, Laravel, Angular, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sebastiansegura2000](https://github.com/sebastiansegura2000)
