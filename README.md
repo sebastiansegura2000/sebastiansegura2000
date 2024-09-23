@@ -52,7 +52,8 @@ I'm a passionate Full Stack Web Developer with a strong focus on backend develop
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!-- ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) -->
 
-<br><br>
+<br>
+<br>
 
 ## 📲 Contact me:
 
