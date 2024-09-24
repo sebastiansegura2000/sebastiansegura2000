@@ -69,3 +69,9 @@ I'm a passionate Full Stack Web Developer with a strong focus on backend develop
 </div>
 
 <br>
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+###
+
+https://profile-readme-generator.com/assets/snake.svg
