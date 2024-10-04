@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Sebastian
- 
+
 <br>
 
 I'm a passionate Full Stack Web Developer with a strong focus on backend development. With over 2 years of experience, I've worked on various projects, from backend systems to full-stack web applications. I have a deep passion for building and consuming APIs, creating efficient and scalable solutions that solve real-world problems. My goal is to constantly learn and improve, especially in technologies like PHP, Laravel, and JavaScript frameworks. Always excited about tackling new challenges and contributing to impactful projects. 👨🏻‍💻
