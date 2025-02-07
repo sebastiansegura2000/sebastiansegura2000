@@ -41,7 +41,7 @@ I'm a passionate Full Stack Web Developer with a strong focus on backend develop
 ### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🔧 Tools & Other Tech 🛡️
